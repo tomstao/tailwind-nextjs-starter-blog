@@ -72,7 +72,8 @@
     ],
     "*.+(js|jsx|ts|tsx|json|css|md|mdx)": [
       "prettier --write"
-    ]
+    ],
+    "next-env.d.ts": []
   },
   "overrides": {
     "react": "19.0.0",
